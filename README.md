@@ -8,7 +8,7 @@ The time quantums text fields will only unfadeds if the user picks a specific al
 
 For this program, you need to input the processes, burst and arrival times individually. For example when you type on the process ID 1 and then burst: 14, arrival: 20, so you have to click input button to store the input variables in the metrics
 
-    
+![main menu input](main menu input.png).   
 
        
 
