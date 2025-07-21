@@ -1,4 +1,6 @@
 # CpuAlgorithmnProject
+Update: Added generate button and number of processes text field where the user inputs the number of processes and the program will automatically generate random inputs on arrival and burst times()
+
 The program that i worked on is the cpualgorithm project is a program where u simulate on how cpu algorithms(FCFS,SJF,SRTF,RR,MLFQ) work.
 
 The maximum numbers for the process is 10
@@ -25,7 +27,9 @@ Another example for SRTF
 
 This one is for round robin. When you pick round robin, you only need to input the time slice and the allotment
 
-For MLFQ, You need to input 4 time slice and allotment. (4 is the max)
-//Currently on debugging phase so i will only show if the debugging is done
+For MLFQ, You need to input 4 time slice and allotment. (4 is the max,0-3 are priority level)
+
+example for MLFQ
+<img width="1143" height="654" alt="Image" src="https://github.com/user-attachments/assets/777dfe53-6dce-42ea-92ec-a48421227aac" />
 
 The cons for this programn is that you need manully inputs individually, which takes a bit of time. 
