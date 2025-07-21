@@ -31,5 +31,6 @@ For MLFQ, You need to input 4 time slice and allotment. (4 is the max,0-3 are pr
 
 example for MLFQ
 <img width="1143" height="654" alt="Image" src="https://github.com/user-attachments/assets/777dfe53-6dce-42ea-92ec-a48421227aac" />
+The P0,P1,etc. represents the priority level
 
 The cons for this programn is that you need manully inputs individually, which takes a bit of time. 
